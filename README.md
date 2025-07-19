@@ -1,4 +1,4 @@
-# Much.pseudo
+# Mych.pseudo
 START
 PROMPT user to input score
 IF score is between 70 and 100
